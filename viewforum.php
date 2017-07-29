@@ -15,36 +15,36 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'ACTIVE_TOPICS'			=> 'Active topics',
-	'ANNOUNCEMENTS'			=> 'Announcements',
+	'ACTIVE_TOPICS'			=> 'সক্রিয় টপিক',
+	'ANNOUNCEMENTS'			=> 'ঘোষণা',
 
-	'FORUM_PERMISSIONS'		=> 'Forum permissions',
+	'FORUM_PERMISSIONS'		=> 'ফোরাম অনুমতি',
 
-	'ICON_ANNOUNCEMENT'		=> 'Announcement',
+	'ICON_ANNOUNCEMENT'		=> 'ঘোষণা',
 	'ICON_STICKY'			=> 'Sticky',
 
-	'LOGIN_NOTIFY_FORUM'	=> 'You have been notified about this forum, please login to view it.',
+	'LOGIN_NOTIFY_FORUM'	=> 'এই ফোরাম সম্পর্কে অবহিত করা হয়েছে, এটি দেখতে লগইন করুন।',
 
-	'MARK_TOPICS_READ'		=> 'Mark topics read',
+	'MARK_TOPICS_READ'		=> 'বিষয়গুলি পড়ুন',
 
-	'NEW_POSTS_HOT'			=> 'New posts [ Popular ]',	// Not used anymore
-	'NEW_POSTS_LOCKED'		=> 'New posts [ Locked ]',	// Not used anymore
-	'NO_NEW_POSTS_HOT'		=> 'No new posts [ Popular ]',	// Not used anymore
-	'NO_NEW_POSTS_LOCKED'	=> 'No new posts [ Locked ]',	// Not used anymore
-	'NO_READ_ACCESS'		=> 'You do not have the required permissions to read topics within this forum.',
-	'NO_UNREAD_POSTS_HOT'		=> 'No unread posts [ Popular ]',
-	'NO_UNREAD_POSTS_LOCKED'	=> 'No unread posts [ Locked ]',
+	'NEW_POSTS_HOT'			=> 'নতুন পোস্ট [ জনপ্রিয় ]',	// Not used anymore
+	'NEW_POSTS_LOCKED'		=> 'নতুন পোস্ট [ লক করা ]',	// Not used anymore
+	'NO_NEW_POSTS_HOT'		=> 'নতুন পোস্ট নেই [ জনপ্রিয় ]',	// Not used anymore
+	'NO_NEW_POSTS_LOCKED'	=> 'নতুন পোস্ট নেই [ লক করা ]',	// Not used anymore
+	'NO_READ_ACCESS'		=> 'এই ফোরামে এর বিষয় পড়তে অনুমতি নেই।',
+	'NO_UNREAD_POSTS_HOT'		=> 'অপঠিত পোস্ট নেই [ জনপ্রিয় ]',
+	'NO_UNREAD_POSTS_LOCKED'	=> 'অপঠিত পোস্ট নেই [ লক করা ]',
 
-	'POST_FORUM_LOCKED'		=> 'Forum is locked',
+	'POST_FORUM_LOCKED'		=> 'ফোরাম লক করা',
 
-	'TOPICS_MARKED'			=> 'The topics for this forum have now been marked read.',
+	'TOPICS_MARKED'			=> 'এই ফোরামে জন্য বিষয় এখন পঠিত হিসাবে চিহ্নিত করা হয়েছে।',
 
-	'UNREAD_POSTS_HOT'		=> 'Unread posts [ Popular ]',
-	'UNREAD_POSTS_LOCKED'	=> 'Unread posts [ Locked ]',
+	'UNREAD_POSTS_HOT'		=> 'অপঠিত পোস্ট [ জনপ্রিয় ]',
+	'UNREAD_POSTS_LOCKED'	=> 'অপঠিত পোস্ট [ লক করা ]',
 
-	'VIEW_FORUM'			=> 'View forum',
+	'VIEW_FORUM'			=> 'ফোরাম দেখুন',
 	'VIEW_FORUM_TOPICS'		=> array(
-		1	=> '%d topic',
-		2	=> '%d topics',
+		1	=> '%d টপিক',
+		2	=> '%d টপিকগুলো',
 	),
 ));
