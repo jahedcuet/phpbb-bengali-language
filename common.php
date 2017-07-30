@@ -386,14 +386,14 @@ $lang = array_merge($lang, array(
 		1	=> '%d বার্তা',
 		2	=> '%d বার্তাগুলো',
 	),
-	'MESSAGE_BODY'			=> 'Message body',
-	'MINUTES'				=> 'Minutes',
-	'MODERATE'				=> 'Moderate',
-	'MODERATOR'				=> 'Moderator',
-	'MODERATORS'			=> 'Moderators',
-	'MODULE_NOT_ACCESS'		=> 'Module not accessible',
-	'MODULE_NOT_FIND'		=> 'Cannot find module %s',
-	'MODULE_FILE_INCORRECT_CLASS'	=> 'Module file %s does not contain correct class [%s]',
+	'MESSAGE_BODY'			=> 'Message body বার্তার মূল অংশ',
+	'MINUTES'				=> 'মিনিট',
+	'MODERATE'				=> 'মডারেট',
+	'MODERATOR'				=> 'মডারেটর',
+	'MODERATORS'			=> 'মডারেটরগণ',
+	'MODULE_NOT_ACCESS'		=> 'মডিউল অ্যাক্সেসযোগ্য নয়',
+	'MODULE_NOT_FIND'		=> '%s মডিউল খুঁজে পাওয়া যাচ্ছে না',
+	'MODULE_FILE_INCORRECT_CLASS'	=> ' %s মডিউল ফাইল এই  [%s] ক্লাস অন্তর্ভুক্ত নেই',
 	'MONTH'					=> 'মাস',
 	'MOVE'					=> 'সরান',
 
@@ -485,36 +485,36 @@ $lang = array_merge($lang, array(
 	'NO_POSTS'					=> 'পোস্ট নেই',
 	'NO_POSTS_TIME_FRAME'		=> 'No posts exist inside this topic for the selected time frame.',
 	'NO_FEED_ENABLED'			=> 'Feeds are not available on this board.',
-	'NO_FEED'					=> 'The requested feed is not available.',
-	'NO_STYLE_DATA'				=> 'Could not get style data',
-	'NO_SUBJECT'				=> 'No subject specified',								// Used for posts having no subject defined but displayed within management pages.
-	'NO_SUCH_SEARCH_MODULE'		=> 'The specified search backend doesn’t exist.',
-	'NO_SUPPORTED_AUTH_METHODS'	=> 'No supported authentication methods.',
-	'NO_TOPIC'					=> 'The requested topic does not exist.',
-	'NO_TOPIC_FORUM'			=> 'The topic or forum no longer exists.',
-	'NO_TOPICS'					=> 'There are no topics or posts in this forum.',
-	'NO_TOPICS_TIME_FRAME'		=> 'No topics exist inside this forum for the selected time frame.',
-	'NO_UNREAD_POSTS'			=> 'No unread posts',
-	'NO_UPLOAD_FORM_FOUND'		=> 'Upload initiated but no valid file upload form found.',
-	'NO_USER'					=> 'The requested user does not exist.',
-	'NO_USERS'					=> 'The requested users do not exist.',
-	'NO_USER_SPECIFIED'			=> 'No username was specified.',
+	'NO_FEED'					=> 'এই বোর্ডে ফিড উপলব্ধ নেই।',
+	'NO_STYLE_DATA'				=> 'স্টাইল ডেটা পাওয়া যাচ্ছে না।'
+	'NO_SUBJECT'				=> 'কোন বিষয় নির্দিষ্ট করা নেই।',								// Used for posts having no subject defined but displayed within management pages.
+	'NO_SUCH_SEARCH_MODULE'		=> 'এই নির্দিষ্ট অনুসন্ধান ব্যাক-এন্ড বিদ্যমান নেই।';
+	'NO_SUPPORTED_AUTH_METHODS'	=> 'অথেনটিকেশন মেধড এ সমর্থিত নয়।'
+	'NO_TOPIC'					=> 'অনুরুধ করা টপিক বর্তমানে নেই।'
+	'NO_TOPIC_FORUM'			=> 'টপিক বা ফোরাম বর্তমানে আর নেই।'
+	'NO_TOPICS'					=> 'এই ফোরামে কোন টপিক বা পোস্ট নেই।'
+	'NO_TOPICS_TIME_FRAME'		=> 'নির্বাচিত সময়ের জন্য এই ফোরামে কোন টপিক বিদ্যমান নেই।',
+	'NO_UNREAD_POSTS'			=> 'কোন অপঠিত পোস্ট',
+	'NO_UPLOAD_FORM_FOUND'		=> 'নতুন আপলোড করা কিন্তু কোন বৈধ ফাইল আপলোড ফর্ম পাওয়া যায় নি।',
+	'NO_USER'					=> 'অনুরোধকৃত ব্যবহারকারীটি বিদ্যমান নয়।'
+	'NO_USERS'					=> 'অনুরোধ করা ব্যবহারকারীদের অস্তিত্ব নেই।',
+	'NO_USER_SPECIFIED'			=> 'ব্যবহারকারী নাম নির্দিষ্ট করা হয়নি।',
 
 	// Nullar/Singular/Plural language entry. The key numbers define the number range in which a certain grammatical expression is valid.
 	'NUM_ATTACHMENTS'		=> array(
-		1	=> '%d attachment',
-		2	=> '%d attachments',
+		1	=> '%d সংযুক্তি',
+		2	=> '%d সংযুক্তিগুলো।'
 	),
 	'NUM_POSTS_IN_QUEUE'		=> array(
-		0			=> 'No posts in queue',		// 0
-		1			=> '1 post in queue',		// 1
-		2			=> '%d posts in queue',		// 2+
+		0			=> 'সারিতে কোন পোস্ট নেই',		// 0
+		1			=> ' সারিতে ১টি পোস্ট '		// 1
+		2			=> 'সারিতে %d  পোস্ট ',		// 2+
 	),
 
-	'OCCUPATION'				=> 'Occupation',
-	'OFFLINE'					=> 'Offline',
-	'ONLINE'					=> 'Online',
-	'ONLINE_BUDDIES'			=> 'Online friends',
+	'OCCUPATION'				=> 'পেশা',
+	'OFFLINE'					=> 'অফলাইন',
+	'ONLINE'					=> 'অনলাইন',
+	'ONLINE_BUDDIES'			=> 'অনলাইন বন্ধুগণ',
 	// "... :: x registered and y hidden"
 	'ONLINE_USERS_TOTAL'		=> array(
 		1	=> 'In total there is <strong>%1$d</strong> user online :: %2$s and %3$s',
