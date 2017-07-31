@@ -18,8 +18,8 @@ $lang = array_merge($lang, array(
 	'DISPLAY_RESULTS'		=> 'ফলাফল প্রদর্শন',
 
 	'FOUND_SEARCH_MATCHES'		=> array(
-		1	=> 'অনুসন্ধান পাওয়া গেছে %d মিলেছে',
-		2	=> 'অনুসন্ধান পাওয়া গেছে %d মিলেছে',
+		1	=> 'অনুসন্ধানে %d টি ফলাফল পাওয়া গেছে',
+		2	=> 'অনুসন্ধানে %d টি ফলাফল পাওয়া গেছে',
 	),
 	'FOUND_MORE_SEARCH_MATCHES'		=> array(
 		1	=> 'অনুসন্ধান %d এর বেশি মেল পাওয়া গেছে',
@@ -90,7 +90,7 @@ $lang = array_merge($lang, array(
 	'SORT_POST_SUBJECT'			=> 'পোস্ট বিষয়',
 	'SORT_TIME'					=> 'পোস্ট সময়',
 	'SPHINX_SEARCH_FAILED'		=> 'অনুসন্ধান ব্যর্থ হয়েছে: %s',
-	'SPHINX_SEARCH_FAILED_LOG'	=> 'দুঃখিত, অনুসন্ধান করা যাবে না। এই ব্যর্থতা সম্পর্কে আরও তথ্য error.log এ আছে।'
+	'SPHINX_SEARCH_FAILED_LOG'	=> 'দুঃখিত, অনুসন্ধান করা যাবে না। এই ব্যর্থতা সম্পর্কে আরও তথ্য error.log এ আছে।',
 
 	'TOO_FEW_AUTHOR_CHARS'	=> array(
 		1	=> 'লেখকের নাম এর জন্য অন্তত স অক্ষর দিতে হবে।',
