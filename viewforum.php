@@ -21,7 +21,7 @@ $lang = array_merge($lang, array(
 	'FORUM_PERMISSIONS'		=> 'ফোরাম অনুমতি',
 
 	'ICON_ANNOUNCEMENT'		=> 'ঘোষণা',
-	'ICON_STICKY'			=> 'Sticky',
+	'ICON_STICKY'			=> 'স্টিকি',
 
 	'LOGIN_NOTIFY_FORUM'	=> 'এই ফোরাম সম্পর্কে অবহিত করা হয়েছে, এটি দেখতে লগইন করুন।',
 

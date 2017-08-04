@@ -299,7 +299,7 @@ $lang = array_merge($lang, array(
         2	=> '%d লুকানো',
     ),
     'HIDE_GUESTS'					=> 'অতিথিদের লুকান',
-    'HIDE_ME'						=> 'আমার অনলাইন অবস্থা লুকান',
+    'HIDE_ME'						=> 'অনলাইন অবস্থা লুকান',
     'HOURS'							=> 'ঘন্টা',
     'HOME'							=> 'প্রচ্ছদ ',
 
@@ -310,7 +310,7 @@ $lang = array_merge($lang, array(
     'IMAGE_FILETYPE_MISMATCH'	=> 'চিত্র ফাইলের ধরন অসম্পূর্ণ: প্রত্যাশিত এক্সটেনশন% 1$s কিন্তু এক্সটেনশন% 2$s দেওয়া হয়েছে।',
     'IN'						=> 'মধ্যে',
     'INACTIVE'					=> 'নিষ্ক্রিয়',
-    'INDEX'						=> 'সূচক পৃষ্ঠা',
+    'INDEX'						=> 'প্রচ্ছেদ',
     'INFORMATION'				=> 'তথ্য',
     'INSECURE_REDIRECT'			=> 'সম্ভাব্য অনিরাপদ ইউআরএল থেকে পুনঃনির্দেশিত করার চেষ্টা করেছিল।',
     'INTERESTS'					=> 'আগ্রহসমূহ',
@@ -351,9 +351,9 @@ $lang = array_merge($lang, array(
     'LOGIN_ERROR_ATTEMPTS'				=> 'You exceeded the maximum allowed number of login attempts. In addition to your username and password you now also have to solve the CAPTCHA below.',
     'LOGIN_ERROR_EXTERNAL_AUTH_APACHE'	=> 'You have not been authenticated by Apache.',
     'LOGIN_ERROR_OAUTH_SERVICE_DOES_NOT_EXIST'	=> 'A non-existant OAuth service has been requested.',
-    'LOGIN_ERROR_PASSWORD'				=> 'You have specified an incorrect password. Please check your password and try again. If you continue to have problems please contact the %sBoard Administrator%s.',
+    'LOGIN_ERROR_PASSWORD'				=> 'ভুল ইউজারনেম অথবা পাসওয়ার্ড।যদি সমস্যা থাকে তবে Board Administrator এর সাথে যোগাযোগ করুন।',
     'LOGIN_ERROR_PASSWORD_CONVERT'		=> 'It was not possible to convert your password when updating this bulletin board’s software. Please %srequest a new password%s. If you continue to have problems please contact the %sBoard Administrator%s.',
-    'LOGIN_ERROR_USERNAME'				=> 'You have specified an incorrect username. Please check your username and try again. If you continue to have problems please contact the %sBoard Administrator%s.',
+    'LOGIN_ERROR_USERNAME'				=> 'আপনার দেয়া ইউজারনাম ভুল,  দয়া করে  আবার চেষ্টা করুন। যদি সমস্যা থাকে তবে %sBoard Administrator%s এর সাথে যোগাযোগ করুন।',
     'LOGIN_FORUM'						=> 'To view or post in this forum you must enter its password.',
     'LOGIN_INFO'						=> 'In order to login you must be registered. Registering takes only a few moments but gives you increased capabilities. The board administrator may also grant additional permissions to registered users. Before you register please ensure you are familiar with our terms of use and related policies. Please ensure you read any forum rules as you navigate around the board.',
     'LOGIN_VIEWFORUM'					=> 'The board requires you to be registered and logged in to view this forum.',
@@ -577,7 +577,7 @@ $lang = array_merge($lang, array(
     'PRIVATE_MESSAGE'		=> 'ব্যক্তিগত বার্তা',
     'PRIVATE_MESSAGES'		=> 'ব্যক্তিগত বার্তাগুলি',
     'PRIVATE_MESSAGING'		=> 'ব্যক্তিগত বার্তা আদানপ্রদান',
-    'PROFILE'				=> 'ব্যবহারকারী কন্ট্রোল প্যানেল',
+    'PROFILE'				=> 'কন্ট্রোল প্যানেল',
 
     'QUICK_LINKS'			=> 'Quick links',
 

@@ -15,20 +15,20 @@ $lang = array_merge($lang, array(
     'ATTACHMENT'						=> 'সংযুক্তি',
     'ATTACHMENT_FUNCTIONALITY_DISABLED'	=> ' বৈশিষ্ট্য সংযুক্ত করা সম্ভব হচ্ছে না।',
 
-    'BOOKMARK_ADDED'		=> 'টপিক বুকমার্কে এ যুক্ত হয়েছে।',
-    'BOOKMARK_ERR'			=> 'বুকমার্ক করা যাচ্ছে না।  অনুগ্রহপূর্বক আবার চেষ্টা করুন।',
-    'BOOKMARK_REMOVED'		=> 'টপিক বুকমার্ক থেকে মুছে ফেলা হয়েছে।',
-    'BOOKMARK_TOPIC'		=> 'বুকমার্ক টপিক',
-    'BOOKMARK_TOPIC_REMOVE'	=> 'বুকমার্ক থেকে সরান',
-    'BUMPED_BY'				=> 'Last bumped by %1$s on %2$s.',
-    'BUMP_TOPIC'			=> 'Bump topic',
+    'BOOKMARK_ADDED'		            => 'টপিক বুকমার্কে এ যুক্ত হয়েছে।',
+    'BOOKMARK_ERR'			            => 'বুকমার্ক করা যাচ্ছে না।  অনুগ্রহপূর্বক আবার চেষ্টা করুন।',
+    'BOOKMARK_REMOVED'		            => 'টপিক বুকমার্ক থেকে মুছে ফেলা হয়েছে।',
+    'BOOKMARK_TOPIC'		            => 'বুকমার্ক টপিক',
+    'BOOKMARK_TOPIC_REMOVE'	            => 'বুকমার্ক থেকে সরান',
+    'BUMPED_BY'				            => 'Last bumped by %1$s on %2$s.',
+    'BUMP_TOPIC'			            => 'Bump topic',
 
-    'CODE'					=> 'কোড',
+    'CODE'					            => 'কোড',
 
-    'DELETE_TOPIC'			=> 'টপিক মুছুন',
-    'DELETED_INFORMATION'	=> '%2$ থেকে %1$s এ মুছে হয়েছে',
-    'DISAPPROVE'					=> 'অগ্রাহ্য',
-    'DOWNLOAD_NOTICE'		=> 'এই পোস্টে সংযুক্ত ফাইল দেখার আপনার অনুমতি নেই।',
+    'DELETE_TOPIC'			            => 'টপিক মুছুন',
+    'DELETED_INFORMATION'	            => '%2$ থেকে %1$s এ মুছে হয়েছে',
+    'DISAPPROVE'					    => 'অগ্রাহ্য',
+    'DOWNLOAD_NOTICE'		            => 'এই পোস্টে সংযুক্ত ফাইল দেখার আপনার অনুমতি নেই।',
 
     'EDITED_TIMES_TOTAL'	=> array(
         1	=> 'Last edited by %2$s on %3$s, edited %1$d time in total.',
@@ -81,7 +81,7 @@ $lang = array_merge($lang, array(
     'SUBMIT_VOTE'			=> 'ভোট জমা দিন',
 
     'TOPIC_TOOLS'			=> 'টপিক এর সরঞ্জাম',
-    'TOTAL_VOTES'			=> 'Total votes',
+    'TOTAL_VOTES'			=> 'মোট ভোট',
 
     'UNLOCK_TOPIC'			=> 'টপিক আনলক',
 

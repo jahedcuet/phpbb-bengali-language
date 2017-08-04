@@ -25,13 +25,13 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'HELP_BBCODE_BLOCK_IMAGES'	=> 'Showing images in posts',
-	'HELP_BBCODE_BLOCK_INTRO'	=> 'Introduction',
-	'HELP_BBCODE_BLOCK_LINKS'	=> 'Creating Links',
-	'HELP_BBCODE_BLOCK_LISTS'	=> 'Generating lists',
-	'HELP_BBCODE_BLOCK_OTHERS'	=> 'Other matters',
-	'HELP_BBCODE_BLOCK_QUOTES'	=> 'Quoting and outputting fixed-width text',
-	'HELP_BBCODE_BLOCK_TEXT'	=> 'Text Formatting',
+	'HELP_BBCODE_BLOCK_IMAGES'	=> 'পোস্টে চিত্রগুলি প্রদর্শিত হচ্ছে',
+	'HELP_BBCODE_BLOCK_INTRO'	=> 'ইন্ট্রোডাকশন',
+	'HELP_BBCODE_BLOCK_LINKS'	=> 'লিঙ্ক তৈরি করা',
+	'HELP_BBCODE_BLOCK_LISTS'	=> 'উৎপন্ন তালিকা',
+	'HELP_BBCODE_BLOCK_OTHERS'	=> 'অন্যান্য বিষয়',
+	'HELP_BBCODE_BLOCK_QUOTES'	=> 'স্থির-প্রস্থের পাঠ্য উদ্ধৃতি এবং আউটপুট',
+	'HELP_BBCODE_BLOCK_TEXT'	=> 'টেক্সট ফর্ম্যাটিং',
 
 	'HELP_BBCODE_IMAGES_ATTACHMENT_ANSWER'	=> 'Attachments can now be placed in any part of a post by using the new <strong>[attachment=][/attachment]</strong> BBCode, if the attachments functionality has been enabled by a board administrator and if you are given the appropriate permissions to create attachments. Within the posting screen is a drop-down box (respectively a button) for placing attachments inline.',
 	'HELP_BBCODE_IMAGES_ATTACHMENT_QUESTION'	=> 'Adding attachments into a post',
