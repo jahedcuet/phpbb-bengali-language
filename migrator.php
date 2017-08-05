@@ -61,12 +61,12 @@ $lang = array_merge($lang, array(
 	'MIGRATION_REVERT_SCHEMA_IN_PROGRESS'	=> 'Reverting Schema: %1$s; Time: %2$.2f seconds',
 	'MIGRATION_REVERT_SCHEMA_RUNNING'	    => 'Reverting Schema: %s.',
 
-	'MIGRATION_INVALID_DATA_MISSING_CONDITION'		=> 'A migration is invalid. An if statement helper is missing a condition.',
-	'MIGRATION_INVALID_DATA_MISSING_STEP'			=> 'A migration is invalid. An if statement helper is missing a valid call to a migration step.',
-	'MIGRATION_INVALID_DATA_CUSTOM_NOT_CALLABLE'	=> 'A migration is invalid. A custom callable function could not be called.',
-	'MIGRATION_INVALID_DATA_UNKNOWN_TYPE'			=> 'A migration is invalid. An unknown migration tool type was encountered.',
-	'MIGRATION_INVALID_DATA_UNDEFINED_TOOL'			=> 'A migration is invalid. An undefined migration tool was encountered.',
-	'MIGRATION_INVALID_DATA_UNDEFINED_METHOD'		=> 'A migration is invalid. An undefined migration tool method was encountered.',
+	'MIGRATION_INVALID_DATA_MISSING_CONDITION'		=> 'একটি স্থানান্তর অবৈধ। একটি বিবৃতি সহায়ক যদি একটি শর্ত অনুপস্থিত থাকে। ',
+	'MIGRATION_INVALID_DATA_MISSING_STEP'			=> 'একটি স্থানান্তর অবৈধ। একটি বিবৃতি সহায়ক যদি একটি মাইগ্রেশন ধাপে একটি বৈধ কল অনুপস্থিত। ',
+	'MIGRATION_INVALID_DATA_CUSTOM_NOT_CALLABLE'	=> 'একটি স্থানান্তর অবৈধ। একটি কাস্টম কলযোগ্য ফাংশন বলা যাবে না। ',
+	'MIGRATION_INVALID_DATA_UNKNOWN_TYPE'			=> 'একটি স্থানান্তর অবৈধ। একটি অজানা মাইগ্রেশন টুল টাইপ সম্মুখীন হয়েছিল। ',
+	'MIGRATION_INVALID_DATA_UNDEFINED_TOOL'			=> 'একটি স্থানান্তর অবৈধ। একটি অনির্ধারিত মাইগ্রেশন টুল সম্মুখীন হয়েছিল। ',
+	'MIGRATION_INVALID_DATA_UNDEFINED_METHOD'		=> 'একটি স্থানান্তর অবৈধ। একটি অনির্ধারিত মাইগ্রেশন টুল পদ্ধতি সম্মুখীন হয়েছিল। ',
 
 	'MODULE_ERROR'						    => 'An error occurred while creating a module: %s',
 	'MODULE_EXISTS'						    => 'A module already exists: %s',

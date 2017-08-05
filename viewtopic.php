@@ -11,7 +11,7 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-    'APPROVE'								=> 'অনুমোদন',
+    'APPROVE'							=> 'অনুমোদন',
     'ATTACHMENT'						=> 'সংযুক্তি',
     'ATTACHMENT_FUNCTIONALITY_DISABLED'	=> ' বৈশিষ্ট্য সংযুক্ত করা সম্ভব হচ্ছে না।',
 
@@ -45,16 +45,16 @@ $lang = array_merge($lang, array(
     'LOGIN_NOTIFY_TOPIC'	=> 'আপনি টপিকটি সম্পর্কে অবহিত করা হয়েছে, দেখতে লগইন করুন।',
     'LOGIN_VIEWTOPIC'		=> 'নিবন্ধিত দেখতে,ফোরাম এ নিবন্ধিত বা প্রবেশ (লগ ইন)  করতে হবে। ',
 
-    'MAKE_ANNOUNCE'				=> '"ঘোষণা" এ পরিবর্তন করুন',
-    'MAKE_GLOBAL'				=> '"গ্লোবাল" এ পরিবর্তন করুন',
-    'MAKE_NORMAL'				=> '"স্ট্যান্ডার্ড বিষয়" এ পরিবর্তন করুন',
-    'MAKE_STICKY'				=> '"স্টিকি" এ পরিবর্তন করুন',
-    'MAX_OPTIONS_SELECT'		=> array(
+    'MAKE_ANNOUNCE'			=> '"ঘোষণা" এ পরিবর্তন করুন',
+    'MAKE_GLOBAL'			=> '"গ্লোবাল" এ পরিবর্তন করুন',
+    'MAKE_NORMAL'			=> '"স্ট্যান্ডার্ড বিষয়" এ পরিবর্তন করুন',
+    'MAKE_STICKY'			=> '"স্টিকি" এ পরিবর্তন করুন',
+    'MAX_OPTIONS_SELECT'	=> array(
         1	=> ' <strong>%d</strong>অপশনটি নির্বাচন করতে পারেন',
         2	=> 'অপশন পর্যন্ত নির্বাচন করতে পারেন <strong>%d</strong> ',
     ),
     'MISSING_INLINE_ATTACHMENT'	=> 'সংযুক্তি <strong>%s</strong> আর উপলব্ধ নেই',
-    'MOVE_TOPIC'				=> 'টপিক সরান',
+    'MOVE_TOPIC'			=> 'টপিক সরান',
 
     'NO_ATTACHMENT_SELECTED'=> ' ডাউনলোড বা দেখার জন্য  সংযুক্তি নির্বাচন করেননি।',
     'NO_NEWER_TOPICS'		=> 'এই ফোরামে কোন নতুন বিষয় নেই।',
