@@ -26,8 +26,8 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'HELP_BBCODE_BLOCK_IMAGES'	=> 'পোস্টে চিত্রগুলি প্রদর্শিত হচ্ছে',
-	'HELP_BBCODE_BLOCK_INTRO'	=> 'ইন্ট্রোডাকশন',
-	'HELP_BBCODE_BLOCK_LINKS'	=> 'লিঙ্ক তৈরি করা',
+	'HELP_BBCODE_BLOCK_INTRO'	=> 'সূচনা',
+	'HELP_BBCODE_BLOCK_LINKS'	=> 'লিঙ্ক তৈরি',
 	'HELP_BBCODE_BLOCK_LISTS'	=> 'উৎপন্ন তালিকা',
 	'HELP_BBCODE_BLOCK_OTHERS'	=> 'অন্যান্য বিষয়',
 	'HELP_BBCODE_BLOCK_QUOTES'	=> 'স্থির-প্রস্থের পাঠ্য উদ্ধৃতি এবং আউটপুট',
