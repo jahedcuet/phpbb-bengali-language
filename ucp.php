@@ -186,9 +186,9 @@ $lang = array_merge($lang, array(
 
 	'EDIT_DRAFT_EXPLAIN'		=> 'এখানে আপনি আপনার খসড়া সম্পাদনা করতে পারবেন। খসড়া সংযুক্তি এবং পোল তথ্য থাকে না। ',
 	'EMAIL_BANNED_EMAIL'		=> 'আপনার প্রবেশ করা ইমেল ঠিকানাটি ব্যবহার করা অনুমোদিত নয়।',
-	'EMAIL_REMIND'				=> 'This must be the email address associated with your account. If you have not changed this via your user control panel then it is the email address you registered your account with.',
-	'EMAIL_TAKEN_EMAIL'			=> 'The entered email address is already in use.',
-	'EMPTY_DRAFT'				=> 'You must enter a message to submit your changes.',
+	'EMAIL_REMIND'				=> 'এটি আপনার অ্যাকাউন্টের সাথে যুক্ত ইমেল ঠিকানা হতে হবে। আপনি যদি আপনার ব্যবহারকারী নিয়ন্ত্রণ প্যানেলের মাধ্যমে এটি পরিবর্তন না করে থাকেন তবে এটি ইমেল ঠিকানা যা আপনি আপনার অ্যাকাউন্টে নিবন্ধিত করেছেন।',
+	'EMAIL_TAKEN_EMAIL'			=> 'প্রদানকৃত ইমেইল ঠিকানাটি ইতোমধ্যে ব্যবহার করা হয়েছে।',
+	'EMPTY_DRAFT'				=> 'আপনার পরিবর্তনগুলি জমা দিতে আপনাকে একটি বার্তা প্রবেশ করতে হবে।',
 	'EMPTY_DRAFT_TITLE'			=> 'You must enter a draft title.',
 	'EXPORT_AS_XML'				=> 'Export as XML',
 	'EXPORT_AS_CSV'				=> 'Export as CSV',
