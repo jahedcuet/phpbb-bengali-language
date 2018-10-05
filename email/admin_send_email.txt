@@ -1,11 +1,10 @@
-
-The following is an email sent to you by an administrator of "{SITENAME}". If this message is spam, contains abusive or other comments you find offensive please contact the webmaster of the board at the following address:
+নিম্নলিখিতটি "{SITENAME}" এর প্রশাসকের দ্বারা আপনাকে প্রেরিত একটি ইমেল। যদি এই বার্তাটি স্প্যাম হয় তবে আপত্তিজনক বা অন্যান্য মন্তব্যগুলি আপত্তিকর বলে মনে হয় তবে দয়া করে নিম্নলিখিত ঠিকানায় বোর্ডের ওয়েবমাস্টারের সাথে যোগাযোগ করুন:
 
 {CONTACT_EMAIL}
 
-Include this full email (particularly the headers). 
+এই সম্পূর্ণ ইমেল অন্তর্ভুক্ত করুন (বিশেষ করে হেডার)।
 
-Message sent to you follows:
+আপনাকে পাঠানো বার্তা অনুসরণ করে:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 {MESSAGE}
