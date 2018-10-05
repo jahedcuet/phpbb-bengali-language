@@ -1,13 +1,13 @@
-Subject: Activate user account
+Subject: ব্যবহারকারীর অ্যাকাউন্ট সক্রিয় করুন
 
-Hello,
+হ্যালো,
 
-The account owned by "{USERNAME}" has been deactivated or newly created, you should check the details of this user (if required) and handle it appropriately.
+"{USERNAME}" এর মালিকানাধীন অ্যাকাউন্টটি নিষ্ক্রিয় করা হয়েছে বা নতুন তৈরি করা হয়েছে, আপনি এই ব্যবহারকারীর বিশদ (যদি প্রয়োজন হয়) চেক করুন এবং উপযুক্তভাবে পরিচালনা করুন।
 
-Use this link to view the user's profile:
+ব্যবহারকারীর প্রোফাইল দেখতে এই লিঙ্কটি ব্যবহার করুন:
 {U_USER_DETAILS}
 
-Use this link to activate the account:
+অ্যাকাউন্টটি সক্রিয় করতে এই লিঙ্কটি ব্যবহার করুন:
 {U_ACTIVATE}
 
 {EMAIL_SIG}
